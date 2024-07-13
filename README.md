@@ -18,4 +18,4 @@
 - bug in og that would include comments after value
 
 ### Problems
-- Can't array values
+- Can't find array values
